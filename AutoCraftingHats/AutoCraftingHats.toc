@@ -1,0 +1,11 @@
+## Interface: 30300
+## Title: AutoCraftingHats
+## Notes: Automatically fetches crafting vanity items and equips them as you open tradeskills.  Will reequip previous gear when tradeskill window is closed.
+## Author: Xan
+## X-Category: Profession
+## DefaultState: enabled
+## Version: 0.1
+
+AutoCraftingHats.lua
+libs\LibStub\LibStub.lua
+libs\AceTimer-3.0\AceTimer-3.0.xml
